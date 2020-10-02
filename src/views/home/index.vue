@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1>home</h1>
+      <h1>hello,我草你妈!</h1>
   </div>
 </template>
 
